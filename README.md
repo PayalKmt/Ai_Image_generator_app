@@ -1,16 +1,38 @@
-# ai_image_generator
+# 🖼️ AI Image Generator App
 
-A new Flutter project.
+A Flutter-based mobile application that generates AI-powered images from text prompts.  
+Built with **Flutter** and integrated with AI image generation APIs.  
 
-## Getting Started
+---
+
+## 📸 App Preview
+
+<p align="center">
+  <img src="images/app_ui.jpeg" alt="App UI" width="300"/>
+</p>
+
+---
+
+## ✨ Features
+
+- Enter a text prompt and generate AI-based images.
+- Simple and beautiful Flutter UI.
+- Example: *"Generate a Disney image of a princess with a prince"*.
+- Cross-platform support (Android & iOS).
+
+---
+
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Studio / VS Code
+- A GitHub account
+- AI Image Generation API Key (update in your code)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the app
+```sh
+flutter pub get
+flutter run
